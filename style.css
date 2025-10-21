@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: black;
+  color: #ff6b6b;
+  font-size: 100px;
+  font-family: Arial, sans-serif;
+}
+
+#love-container span {
+  display: inline-block;
+  opacity: 1;
+  margin: 0 10px;
+  transition: all 0.3s ease;
+}
